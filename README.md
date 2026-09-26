@@ -19,8 +19,6 @@ A comprehensive <strong>Core Java</strong> repository designed for beginners, st
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 ![Interview Preparation](https://img.shields.io/badge/Interview-Preparation-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/shaikbasha-dev/01-Core-Java?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/shaikbasha-dev/01-Core-Java?style=for-the-badge)
 
 </div>
 
