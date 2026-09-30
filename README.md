@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ 01 – Core Java
+# ☕ 1.01 – Core Java
 
 ### Complete Beginner to Advanced Learning Repository
 
